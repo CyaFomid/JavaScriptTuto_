@@ -30,3 +30,5 @@ if(admin === operator){
 }else{
   alert('貴様、管理者ではないな！');
 }
+
+//yap
