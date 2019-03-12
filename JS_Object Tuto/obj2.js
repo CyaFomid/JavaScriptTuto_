@@ -6,6 +6,7 @@ let copy = fire;
 let userName = {name:'John'};
 let mamaName = {name:'An'};
 
+
 alert('user = ' + userName.name);
 alert('mama = ' + mamaName.name);
 
