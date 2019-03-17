@@ -1,7 +1,4 @@
 function Calc(){
-  let num1 = 0;
-  let num2 = 0;
-
   this.read = function(){
     this.num1 = +prompt('num1?',0);
     this.num2 = +prompt('num2?',0);
